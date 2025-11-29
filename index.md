@@ -1,3 +1,4 @@
+
 # Call for Collaboration
 
 This aims to help faculty job applicants.
@@ -17,8 +18,7 @@ This is where you must convince others that you will be a successful researcher.
 
 ## Apply if You Want It — It Is Their Job to Reject You
 
-Faculty jobs are scarce (thank you, Leshem, for pointing out the obvious), so think carefully about your **best alternative options (BATNA)**:
-[https://www.pon.harvard.edu/daily/batna/translate-your-batna-to-the-current-deal/?utm_source=ktilana.wixsite.com](https://www.pon.harvard.edu/daily/batna/translate-your-batna-to-the-current-deal/?utm_source=ktilana.wixsite.com)
+Faculty jobs are scarce (thank you, Leshem, for pointing out the obvious), so think carefully about your **best alternative options [(BATNA)](https://www.pon.harvard.edu/daily/batna/translate-your-batna-to-the-current-deal/?utm_source=ktilana.wixsite.com)**:
 
 Ask yourself: if everything else fails, would you actually go there? Or are you just applying out of fear, or habit, or the illusion that more options will somehow feel better? You do not owe any institution loyalty in advance, nor are you expected to accept an offer you do not want. Apply because you want the job; let them decide whether they want you.
 
