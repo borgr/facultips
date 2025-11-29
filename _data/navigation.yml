@@ -1,18 +1,27 @@
 - title: "Introduction"
   url: /introduction/
+  weight: 1
 - title: "General Advice"
   url: /general-advice/
+  weight: 2
 - title: "Who to Ask for Recommendations"
   url: /who-to-ask-for-recommendations/
+  weight: 3
 - title: "The Research Statement"
   url: /the-research-statement/
+  weight: 4
 - title: "Past Work"
   url: /past-work/
+  weight: 5
 - title: "Future Work"
   url: /future-work/
+  weight: 6
 - title: "Talk-Specific Advice"
   url: /talk-specific-advice/
+  weight: 7
 - title: "Teaching statement"
   url: /teaching-statement/
+  weight: 8
 - title: "Resources"
   url: /resources/
+  weight: 9
