@@ -3,6 +3,7 @@ layout: default
 title: "Past Work"
 permalink: /past-work/
 nav_order: 5
+parent: "The Research Statement"
 ---
 ### Past Work
 

@@ -3,6 +3,8 @@ layout: default
 title: "Future Work"
 permalink: /future-work/
 nav_order: 6
+parent: "The Research Statement"
+has_children: true 
 ---
 ### Future Work
 

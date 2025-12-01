@@ -3,7 +3,6 @@ layout: default
 title: "Teaching statement"
 permalink: /teaching-statement/
 nav_order: 8
-parent: "The Research Statement"
 ---
 ## Teaching statement
 

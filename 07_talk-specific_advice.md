@@ -3,6 +3,8 @@ layout: default
 title: "Talk-Specific Advice"
 permalink: /talk-specific-advice/
 nav_order: 7
+grand_parent: "The Research Statement"
+parent: "Future Work"
 ---
 ## Talk-Specific Advice
 
