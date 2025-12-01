@@ -3,6 +3,7 @@ layout: default
 title: "Teaching statement"
 permalink: /teaching-statement/
 nav_order: 8
+parent: "The Research Statement"
 ---
 ## Teaching statement
 
@@ -19,11 +20,12 @@ They want to see you thought about it, you have a plan, you know if you want it 
 
 #### Evaluation and assessment
 
-Did you think about it?
+Did you think about it? 
 
 
 ### Connect it to your research
 
+If it is an experimental field, maybe you value hands-on teaching, maybe you care about open science and hence want it reflected in class etc.
 
 
 ### Experience
