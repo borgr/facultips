@@ -2,6 +2,7 @@
 layout: default
 title: "The Research Statement"
 permalink: /the-research-statement/
+nav_order: 4
 ---
 ## The Research Statement
 

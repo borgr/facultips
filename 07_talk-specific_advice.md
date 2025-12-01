@@ -2,6 +2,7 @@
 layout: default
 title: "Talk-Specific Advice"
 permalink: /talk-specific-advice/
+nav_order: 7
 ---
 ## Talk-Specific Advice
 

@@ -2,6 +2,7 @@
 layout: default
 title: "Past Work"
 permalink: /past-work/
+nav_order: 5
 ---
 ### Past Work
 

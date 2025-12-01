@@ -2,6 +2,7 @@
 layout: default
 title: "Introduction"
 permalink: /introduction/
+nav_order: 1
 ---
 ## Introduction
 

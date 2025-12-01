@@ -2,6 +2,7 @@
 layout: default
 title: "General Advice"
 permalink: /general-advice/
+nav_order: 2
 ---
 ## General Advice
 
