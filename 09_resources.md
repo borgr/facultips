@@ -18,3 +18,4 @@ nav_order: 9
 * TED mastered inspirational talks and are open enough about how to do it [1](https://mannerofspeaking.org/2016/05/24/the-ted-secret-to-great-public-speaking/), [2](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
 * There are (books aplenty)[https://get.goreact.com/resources/books-every-public-speaking-guru-has-read/], but can't attest to any specific ones (I took coursera courses however)
 * (From Bio - how to desing a chalk tal)[https://www.molbiolcell.org/doi/10.1091/mbc.E19-01-0007]
+* (Wisdom of the Reddit crowd)[https://www.reddit.com/r/PhD/comments/1kjwhrk/what_small_tip_made_your_conference_presentations/]
