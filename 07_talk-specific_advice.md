@@ -6,6 +6,7 @@ nav_order: 7
 grand_parent: "The Research Statement"
 ---
 ## Talk-Specific Advice
+Generally giving technical and inspirational talks have many resources, if you just want better presentation skills consider them. (Examples [here]{{% /09_resources.md %}}) I tried to give common, niche or jobtalk specific advice here.
 
 ### The Annoying Person in the Crowd
 
