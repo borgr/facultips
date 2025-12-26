@@ -18,7 +18,7 @@ Silence feels awkward only to you. Give the audience time to gather their though
 
 ### Practice, practice, practice
 
-Practice in front of people (ask them for feedback on the things that matteris, is the impact\vision clear etc.), practice by yourself (out loud!).
+Practice in front of people (ask them for feedback on the things that matteris, is the impact\vision clear etc.), practice by yourself (out loud!). And if you don't trust me trust, well everyone ([Speech Coaches](https://janicekperformancegroup.com/why-talking-out-loud-is-the-secret-to-building-confidence/) [Youtubers](https://janicekperformancegroup.com/why-talking-out-loud-is-the-secret-to-building-confidence/) [Workshops](https://fullfocus.co/how-to-improve-your-public-speaking-by-practicing-out-loud/) )
 
 ### Balance non-technical with experties
 In general, you want to define everything, assume the audience at best knows what (talented) grad students in your department would know and not more. However, you also don't want to give a TED talk aiming just to inspire, so you are allowed to get deeper and lose some of the audience at a certain point. Ideally, do it once, and allow the audience to catch up with you right away after.
