@@ -3,6 +3,7 @@ layout: default
 title: "General Advice"
 permalink: /general-advice/
 nav_order: 2
+has_children: true 
 ---
 ## General Advice
 
@@ -51,3 +52,6 @@ Connections within a department can help you long before your application is sub
 From teaching goals to vision there is always a fine balance. Uiversities claim to strive high, but they are very conservative. So, if you are really unique and want a place to embrace it do it and you will land the places that cherish it. Jordan Peterson, once said that he joined Harvard and from the beginning they knew he has unique opinions. Otherwise, hiding them only until X (Graduation, tenure,...) would have meant holdingit forever.
 
 On the contrary, if you do not believe in it and just stress to impress, no need, just be honest.
+
+#### Peers Are Often Willing to Help
+Practice against them what you did and your impact (and even others that are less acquainted with your field). Ask people your questions (How much starting money should I ask for, can I see your research statement etc.)
