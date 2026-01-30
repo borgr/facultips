@@ -7,6 +7,11 @@ has_children: true
 ---
 ## General Advice
 
+### Your advisor is like Mom --- They Don't Know Everything
+You might have been dependant on your advisor thus far, or not, but is used to them knowing everything. At this stage, unlike writing papers and other routine tasks, this is something they only did a few times, and only observed from a single comittee's perspective.
+
+I have seen pannels on literaly every step of the faculty process. Professors often don't agree on what is important, worth it or even better. But there are things that they do agree about which I try to bring here. Also, just don't take it from only one professor, not even from me. Learn a bit, ask around when useful.
+
 ### About applying
 #### Apply if You Want It — It Is Their Job to Reject You
 

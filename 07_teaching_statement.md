@@ -2,7 +2,7 @@
 layout: default
 title: "Teaching statement"
 permalink: /teaching-statement/
-nav_order: 8
+nav_order: 7
 ---
 ## Teaching statement
 
