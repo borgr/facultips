@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Introduction"
-permalink: /introduction/
+permalink: /
+redirect_from: /introduction/
 nav_order: 1
 ---
 ## Introduction

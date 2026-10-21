@@ -1,2 +1,15 @@
 remote_theme: just-the-docs/just-the-docs
 heading_anchors: true
+title: "Facultips: a guide to the faculty job market"
+description: >-
+  A practical guide to applying for tenure-track faculty jobs: research and teaching statements, who to ask for recommendation letters, and the job talk.
+url: https://borgr.github.io
+baseurl: /facultips
+author: Leshem Choshen
+image: https://borgr.github.io/portrait.jpg
+lang: en
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
